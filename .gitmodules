@@ -10,6 +10,3 @@
 [submodule "LiyanziAndXueqian"]
 	path = LiyanziAndXueqian
 	url = git@github.com:mumuyang1/pos-java-jdbc.git
-[submodule "WanghuanAndZhangzhihui"]
-	path = WanghuanAndZhangzhihui
-	url = git@github.com:adabeauty/pos-java-JDBC.git
